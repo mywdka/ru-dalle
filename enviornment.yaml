@@ -24,6 +24,7 @@ dependencies:
   - xz=5.2.5=h7f8727e_1
   - zlib=1.2.12=h7f8727e_2
   - pip:
+    - Cython
     - absl-py==1.1.0
     - aiohttp==3.8.1
     - aiosignal==1.2.0
@@ -94,5 +95,5 @@ dependencies:
     - urllib3==1.26.10
     - werkzeug==2.1.2
     - yarl==1.7.2
-    - youtokentome==1.0.6
+    - youtokentome
     - zipp==3.8.1
